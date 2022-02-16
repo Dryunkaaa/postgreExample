@@ -10,7 +10,7 @@
 
     <properties>
         <hibernate.version>5.4.10.Final</hibernate.version>
-        <postgre.version>42.2.9</postgre.version>
+        <postgre.version>42.3.3</postgre.version>
     </properties>
 
     <dependencies>
